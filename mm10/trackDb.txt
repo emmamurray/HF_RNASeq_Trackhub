@@ -1,0 +1,35 @@
+track  SHAM
+bigDataUrl SHAM_all.bw
+shortLabel SHAM
+longLabel SHAM_HF_RNASeq
+type bigWig
+visibility dense
+
+track  48hrMI
+bigDataUrl 48hrMI_all.bw
+shortLabel 48hrMI
+longLabel 48hrMI_HF_RNASeq
+type bigWig
+visibility dense
+
+track  2wkMI
+bigDataUrl 2wkMI_all.bw
+shortLabel 2wkMI
+longLabel 2wkMI_HF_RNASeq
+type bigWig
+visibility dense
+
+track  1wkTAC
+bigDataUrl 1wkTAC_all.bw
+shortLabel 1wkTAC
+longLabel 1wkTAC_HF_RNASeq
+type bigWig
+visibility dense
+
+track  8wkTAC
+bigDataUrl 8wkTAC_all.bw
+shortLabel 8wkTAC
+longLabel 8wkTAC_HF_RNASeq
+type bigWig
+visibility dense
+

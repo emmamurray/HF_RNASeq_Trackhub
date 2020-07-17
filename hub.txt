@@ -1,0 +1,5 @@
+hub RNASeq_HF
+shortLabel RNASeq_HF
+longLabel RNASeq_HF
+genomesFile genomes.txt
+email  murray@temple.edu
