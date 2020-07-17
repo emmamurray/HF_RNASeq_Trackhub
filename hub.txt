@@ -1,5 +1,5 @@
-hub RNASeq_HF
-shortLabel RNASeq_HF
-longLabel RNASeq_HF
+hub HF_RNASeq_Trackhub
+shortLabel HF_RNASeq_Trackhub
+longLabel HF_RNASeq_Trackhub
 genomesFile genomes.txt
 email  murray@temple.edu
